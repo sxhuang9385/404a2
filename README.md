@@ -1,4 +1,10 @@
 CMPUT404-assignment-web-client
+
+==============================
+Written by Jaden Huang
+ID:1620975
+ccid: sxhuang
+
 ==============================
 
 CMPUT404-assignment-web-client
